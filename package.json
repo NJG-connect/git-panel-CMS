@@ -8,7 +8,12 @@
     "prepare": "yarn build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "NJG Connect",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NJG-connect/git-panel-CMS.git"
+  },
+  "keywords": ["cms", "njg connect" , "landingPage", "one page", "netlify", "netlify cms"],
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^17.0.16",
